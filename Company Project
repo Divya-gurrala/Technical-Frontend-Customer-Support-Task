@@ -89,6 +89,20 @@
                             </select>
                         </div>
                     </div>
+                     <!-- Item 2 -->
+                        <div class="flex items-center space-x-4">
+                            <span class="w-1/4 text-sm font-semibold text-gray-600">#2</span>
+                            <select class="w-1/2 p-2 border border-gray-300 rounded-md text-sm bg-white">
+                                <option>S</option>
+                                <option>M</option>
+                                <option>L</option>
+                            </select>
+                            <select class="w-1/2 p-2 border border-gray-300 rounded-md text-sm bg-white">
+                                <option>Colour</option>
+                                <option>Red</option>
+                                <option>Green</option>
+                            </select>
+                        </div>
                     <p class="text-right font-bold text-gray-700 mt-4">DKK 69.50</p>
                 </div>
             </div>
@@ -197,20 +211,6 @@
                                 <option>Colour</option>
                                 <option>Red</option>
                                 <option>Green</option>
-                            </select>
-                        </div>
-                        <!-- Item 3 -->
-                        <div class="flex items-center space-x-4">
-                            <span class="w-1/4 text-sm font-semibold text-gray-600">#3</span>
-                            <select class="w-1/2 p-2 border border-gray-300 rounded-md text-sm bg-white">
-                                <option>S</option>
-                                <option>M</option>
-                                <option>L</option>
-                            </select>
-                            <select class="w-1/2 p-2 border border-gray-300 rounded-md text-sm bg-white">
-                                <option>Colour</option>
-                                <option>Blue</option>
-                                <option>Yellow</option>
                             </select>
                         </div>
                     </div>
